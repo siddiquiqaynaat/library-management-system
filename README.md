@@ -5,7 +5,6 @@ engineering, layered design and automated testing.
 
 ![CI](https://github.com/siddiquiqaynaat/library-management-system/actions/workflows/ci.yml/badge.svg)
 
-> Learning project built with AI assistance (Claude) as a starting point, then reviewed and extended by me.
 
 ## Features
 - Add books (with multiple copies) and register members
